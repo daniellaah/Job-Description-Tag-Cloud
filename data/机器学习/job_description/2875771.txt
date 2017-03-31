@@ -1,0 +1,16 @@
+工作职责：
+GoalsMission: Research and Deliver Machine Learning Solutions for Trend Security Products
+Responsibility:
+Study Malware characteristics for Mac OSWindowsLinux or other cyber threats and work with threat experts to design possible features
+Handling real traffic data and analyzing distribution of features, selecting andor changing features, purifying data, building up good quality trainingtesting data set as well as automatic processes for training and testing
+Research machine learning approaches to learn knowledge from real world data and prediction results should be comparable to worldwide competitors
+Based on gained knowledge from above research to provide advice or solution POC on new or enhanced methods of malware detection for Titanium, OfficeScan, and other Trend Products 
+Implement and deliver machine learning solutions as packages of Intelligent Engine embedded into Trend Products
+Join and speak in global security conference about research observations and findings 
+
+任职资格：
+PhDMaster in Computer Science or related fields with 3+ years working experience
+Fast-Learning, Creativity and self-motivated
+Strong Developing Skill under Linux with CC++ or Python
+Deep understanding on one or two machine learning algorithms along with high quality paper for innovation
+Practiced in solving a real machine learning problem with real data: have full set of solution

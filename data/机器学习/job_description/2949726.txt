@@ -1,0 +1,10 @@
+岗位职责：
+机器学习、数据挖掘、自然语言处理领域的技术研发工作。
+任职资格：
+（1）国内外知名高校博士学历，优秀硕士亦可，数学、统计、计算机、自动化、电子工程等相关专业；
+（2）1年以上算法研究经验；
+（3）熟悉机器学习、数据挖掘和自然语言处理领域的常用算法（如SVM, CNN, RNN, LSTM, LDA、Logistic Regression, Word Embedding, K-Means，Random Forrest, Boosting等）；
+（4）有实际软件研发经验，精通Python;
+（5）熟悉 Theano/Tensorflow/Torch/Caffe中的至少2种
+（6）了解Hadoop、Spark等分布式计算框架。
+薪酬一人一议

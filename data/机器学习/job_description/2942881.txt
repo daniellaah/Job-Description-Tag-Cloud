@@ -1,0 +1,15 @@
+Job Description/职位描述：
+1. Development and implementation of DL/ML algorithms focusing on industrial applications, such as, driver-less cars, robotics, internet of things, and industry 4.0;
+2. Strategy development for the field of AI/DL/ML, support in strategic decision making with regard to our various product lines;
+3. Development of large scale DL/ML algorithms and parallel implementation strategies;
+4. Evaluation and comparison of DL/ML algorithms for specific applications and related tasks, in particular with regard to the performance, training, and suitability for embedded pplications;
+5. Close communication with our hardware architecture experts.
+
+The Successful Applicant/理想的求职者：
+1. PhD in computer science, artificial intelligence, mathematics, physics, statistics;
+2. Expertise and practical experience in the following domains: Artificial Intelligence, Deep Learning, Machine Learning. Practical experience in CNN/NLP algorithm is a plus;
+3. In depth practice in deep learning methodologies on GPU/FPGA/ASIC, such as Caffe, ConvNet, Torch…etc., mastering the tuning strategy for CNN/NLP's parameters;
+4. Technical proficiency in programming languages: R, C/C++, Python, Matlab, Java, JavaScript, familiarity with Linux environment;
+5. Experience with big data technologies and HPC is a plus, such as Hadoop ecosystem;
+6. Excellent communicative skills in read and written English, fluent spoken English;
+7. Strong communication skills, ability to express oneself logically, strong sense of team spirit, proactive communication.

@@ -1,0 +1,23 @@
+-作为物理层算法工程师，你的工作是为ArrayComm's EnodeB 及其客户产品提供无线通信系统算法设计，包括算法设计及优化、连接层仿真、定点性能验证。你将会和系统、DSP以及测试组密切合作，使我们的产品高效发布。
+- As a physical layer algorithm engineer, you are required to contribute to the algorithm design of wireless communication systems for ArrayComm's EnodeB or Client products, including algorithm design and optimization, link-level simulation, fixed-point performance verification. You would work closely with System/DSP/Test team, in order to deliver our products efficiently.
+ 
+任职要求：
+Required profile:
+ 
+-电子工程硕士及以上学位，通信及信号处理相关专业；
+- A minimum of a Master’s degree in Electrical Engineering is required with major in communication or signal processing；
+ -热爱算法设计，开朗、专注、随和；
+- Enthusiasm for algorithm design, open-minded, dedicated and easy-going;
+ -扎实的理论及数学基础，在数位传输领域中牢固的数字信号处理知识，尤其是是无线通信知识；
+- Solid theory and mathematical foundation, strong Digital Signal Processing knowledge in the area of digital communication, esp., wireless communication;
+ -2年以上信号处理或通信领域工作经验；
+- More than 2 years’ work experience in signal processing or the communication field is necessary;
+ - 有LTE/TD-SCDMA/GSM/WCDMA/WiMax/CMMB/DVB经验背景者尤佳；
+- Strong background and experience in LTE/TD-SCDMA/GSM/WCDMA/WiMax/CMMB/DVB is much preferred;
+ -有优秀编程技能者优先；
+- Excellent programming skill is really good plus;
+-有DSP软件编程或定点仿真经验者优先；
+ 
+- Experience in DSP software coding or fixed-point simulation is a plus;
+ -良好的书面和口头英语能力。
+- Good written and oral English skills.

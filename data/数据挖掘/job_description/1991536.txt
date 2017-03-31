@@ -1,0 +1,20 @@
+数据分析师
+You’re right for this job if you have:
+l A Master's degree or equivalent experience, required
+l 硕士及同等学历。或者特别优秀的本科生。
+l Advanced programming skills and the ability to write customized SAS (or other statistical tool) programs for meaningful data analysis
+l 娴熟的程序编写技能，能借助SAS/R进行数据分析。
+l Experience working with relational databases, such as SQL
+l 有类似SQL的数据库经验
+l Proficiency in spreadsheet applications and advanced use of statistical applications and databases
+l 精通表格的统计及数据应用。
+l Advanced knowledge of statistical/econometric modeling
+l 丰富的统计及经济建模经验。
+ 
+l Kudos to you if you have:
+l A Master’s degree or PhD in related field of study 
+l 硕士学位或相关领域的博士学位。
+l Experience in Analytics at a financial institution
+l 有金融行业分析经验 。
+l A strong understanding of delivering financial services through the Internet.
+l 对线上金融有理解透彻。

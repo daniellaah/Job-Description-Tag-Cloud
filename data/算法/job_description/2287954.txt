@@ -1,0 +1,7 @@
+岗位职责:
+1.     建立、维护与完善1号店的自动推荐系统；
+2.     根据网站用户日志，进行数据挖掘分析。
+职位要求:
+1.     计算机、数学、统计学相关专业本科以上学历；
+2.     对统计分析，数据挖掘算法有深入理解并有实际应用 经验。比如分类 (classification)，聚类(clustering)，关联分析 (association rules)，逻辑回归(logistic regression)，时间序列分析(time series analysis),推荐系统(recommendation systems),等；
+3.     具有5年以上专业数据分析或者开发的经验，具备独立的分析能力

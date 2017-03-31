@@ -1,0 +1,4 @@
+岗位职责
+1.  挖掘商城数据2. 设计和训练算法模型3. 设计模型数据的检验方案4. 与架构师一起设计模型植入系统的接口
+ 
+基本要求:1. 2年或者以上机器学习/人工智能研究或实践经验2. 在以下至少一个领域有深入的研究：统计/机器学习（回归(Logistic)，聚类，时间序列，分类树，Boosting，SVM，Random Forest，神经网络等）；推荐算法 （Collaborative Filtering, SVD++）；3. 熟悉和掌握算法模型训练软件之一(如R, SAS, SPSS,或者matlab等）。4. 熟练下列数据库查询之一Hive、SQL Server、Oracel、MySQL、或者Teradata等。5. 良好的逻辑思维能力，能够从海量数据中发现有价值的规律。6. 不惧困难，面临挑战充满激情，面临挫折充满斗志，面临质疑临危不惧。7. 具有良好的沟通能力，和良好的团队合作精神。有如下经验/能力者优先：1. 有数学建模竞赛获奖2. Linux环境/Shell命令3. 分布式计算Hadoop/hive/spark等相关技术4. 基于集群的机器学习Spark ML、Mahout、或者R-Hadoop5. 熟悉一种编程语言（Java、Python，或者Perl）

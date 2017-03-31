@@ -1,0 +1,1 @@
+1、  大学本科以上学历，5年以上大数据工作经验，熟练掌握java、c++、python一种或多种开发语言；2、  对系统架构有深入思考，熟悉推荐系统、数据仓库、文本挖掘、用户画像，在业务层有很强的抽象思维；3、  深入了解大数据框架底层原理，掌握但不限于hadoop、hive、spark、flink、kylin、hbase、presto、elasticsearch、nifi、flume、tableau；4、  扎实的数学基本功，熟练掌握分类、聚类、回归底层数学原理，会使用python、spark机器学习库；

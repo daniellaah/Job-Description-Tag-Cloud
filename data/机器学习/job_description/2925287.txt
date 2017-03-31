@@ -1,0 +1,27 @@
+岗位职责：
+1. 利用机器学习／深度学习进行道路采集点云和图像数据自动处理技术的研发；
+2. 负责机器学习／深度学习高性能计算系统的构建；
+3. 负责机器学习／深度学习样本库的构建。
+
+任职要求：
+1.  计算机、图像识别、自动化或者模式识别专业硕士／博士学历；
+2.  5年以上机器学习／深度学习项目研发经验：计算机视觉相关。最好做过道路相 关的项目；
+3.  熟练掌握各种机器学习算法（决策树、支持向量机等），熟练掌握主要的深度学习算法（CNN、RBN、DBN等）；
+4.  能够熟练的使用Caffe、Cuda-convnet、Torch其中一种主流的深度学习框架；
+5.  熟悉OpenCV，精通C/C++，Matlab，至少熟悉(Python、Lua、Ruby等)一种脚本语言；
+6.  熟悉并行算法，做过多核和GPU开发；
+7.  有团队管理经验；
+8.  有较强的语言表达、沟通能力和分析、解决问题的能力。
+ 
+Algorithm Specialist－Machine Learning
+Responsibilities：
+1.  Be responsible for research & development of automatic processing of captured road data (image & point cloud) by using Machine Learning/Deep Learning.
+Qualifications：
+1.  Master or PhD in Computer Science, Pattern Recognition, or Automation.
+2.   5+ years of project experiences on Machine Learning/Deep Learning: Computer Vision related. Road related experience is preferred.
+3.  Proficient in main Machine Learning algorithms (decision tree, SVM, etc.). Proficient in main Deep Learning algorithms（CNN, RBN, DBN, etc.）.
+4.  Familiar with one of the Deep Learning frameworks: Caffe, Cuda-convnet, and Torch.
+5.  Familiar with OpenCV. Proficient in C/C++, Matlab, and one of the script languages: Python, Lua, and Ruby.
+6.  Familiar with parallel algorithm and experienced on multi-core and GPU programming.
+7.  Experienced on team management.
+8.  Good verbal and written communication skills and good capabilities on problem analyzing and solving.

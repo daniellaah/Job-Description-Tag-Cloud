@@ -1,0 +1,10 @@
+Job Responsibility: 1) Participate as a member of the development team; 2) Develop Dead-Reckoning and Map-Matching algorithm for positioning module; 3) Integrate GPS Module 4) Work closely with product/project manager, designer, QA, and tech lead to generate detailed design of sub-system and components. Ensure design consistency; 5) Responsible for coding of components. Ensure implementation quality and compliance to design and coding standards; 6) Generate proper design documentation;
+ 
+工作职责 1) 作为开发团队的一员，负责集成GPS模块，为导航定位模块开发航位推算（DR）和地图匹配算法。 2) 和产品经理，项目经理，开发工程师以及质量工程师紧密合作，开发高质量的车载互联网产品。 为了适应高速发展的车联网技术，你将参与到一系列真正富有创新性的车联网解决方案中来。 3) 工作中需要充满热情以及对完美的不懈追求,能够合理平衡产品的创新和实用性，开发令自己自豪的产品。
+ 
+ 
+Qualification 1) B.S./M.S. degree in computer science or related fields; 2) At least 1 year of object-oriented software development experience; 3) Good coding abilities and experience with C++; 4) Good communication skills in oral and written English;
+5) Knowledge on GPS is plus; 6) Knowledge on Filter/Prediction/Estimation Theory is plus; 7) Knowledge on Robotics is plus; 8) Experience on Matlab is plus;
+ 
+职位要求 1) 拥有计算机及相关专业的学士或硕士学位 2) 具备1年以上的面向对象软件开发经验 3) 具备出色的C++编程能力 4) 具备良好的英文口语和书面表达能力
+5) 拥有GPS知识或经验为佳 6) 了解滤波、预测、估计理论为佳 7) 拥有机器人知识或经验为佳 8) 拥有Matlab经验为佳
