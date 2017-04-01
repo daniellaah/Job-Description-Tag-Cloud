@@ -53,6 +53,7 @@ def getJdById(position_id):
     """
     if not os.path.exists('job_description'):
         os.mkdir('job_description')
+
     url = "https://www.lagou.com/jobs/%s.html" % position_id
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html5lib")
@@ -65,6 +66,7 @@ def getJdById(position_id):
     return jd
 
 def saveJobDescriotion(position_id_file, job_decs_folder):
+
     with open(position_id_file, 'r') as pif:
         for line in pif.readlines():
             position_id = line.strip()
