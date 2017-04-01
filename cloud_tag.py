@@ -1,6 +1,7 @@
 import os
 import jieba
 import jieba.analyse
+import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
 def getJobDescriptionByPathList(path_list):

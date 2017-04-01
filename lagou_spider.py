@@ -5,7 +5,6 @@ import json
 import re
 import os
 import time
-import matplotlib.pyplot as plt
 
 headers = {"user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36"}
 
