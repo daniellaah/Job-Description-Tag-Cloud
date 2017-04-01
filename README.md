@@ -9,6 +9,6 @@
 ### 数据挖掘
 ![](pic/数据挖掘.png)
 ### 算法
-![](pic/算法.png")
+![](pic/算法.png)
 ### 全部
-![](pic/All.png")
+![](pic/All.png)
