@@ -1,6 +1,7 @@
 # 爬取拉勾网职位描述生成标签云
-## 要求
-- Python3
+## 运行环境
+- Python3.5
+## 依赖
 - [jieba](https://github.com/fxsjy/jieba)
 - [wordcloud](https://github.com/amueller/word_cloud)
 ## 效果展示
