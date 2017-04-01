@@ -1,9 +1,9 @@
 # 爬取拉勾网职位描述生成标签云
 ## 机器学习
-![](pic/机器学习.png)
+<img src="pic/机器学习.png" width="800px" height="500">
 ## 数据挖掘
-![](pic/数据挖掘.png)
+<img src="pic/数据挖掘.png" width="800px" height="500">
 ## 算法
-![](pic/算法.png)
+<img src="pic/算法.png" width="800px" height="500">
 ## 全部
-![](pic/All.png)
+<img src="pic/All.png" width="800px" height="500">
